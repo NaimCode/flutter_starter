@@ -4,7 +4,7 @@ import 'package:flutter_starter/screens/login_screen.dart';
 import 'package:go_router/go_router.dart';
 
 final router = GoRouter(
-  initialLocation: "/",
+  initialLocation: "/login",
   routes: [
     ShellRoute(
         builder: (context, state, child) {
