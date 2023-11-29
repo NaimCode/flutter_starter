@@ -1,0 +1,12 @@
+{
+    "test":"C'est un test",
+    "msg":"Bonjour {name}, vous avez {age} ans",
+
+    "msg_named":"Easy localization est ecrit en langage {lang}",
+    "msg_mixed":"{} tu es entrain d'ecrire en langage {lang}",
+    "gender":{
+       "male":"Salut mec ;) {}",
+       "female":"Salut la fille :) {}",
+       "other":"Salut a tous {}"
+    }
+ }
